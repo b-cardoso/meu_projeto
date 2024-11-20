@@ -2,3 +2,5 @@ Esta é uma linha de texto
 Linha escrita na main
 
 Linha escrita no respositório local
+
+Mais um texto de teste
